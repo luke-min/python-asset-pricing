@@ -1,2 +1,2 @@
-# ignore all .txt files
-/data/raw
+# ignore all
+/data/raw/*.sqlite
