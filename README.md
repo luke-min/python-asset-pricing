@@ -32,6 +32,8 @@ You may also be asked to authenticate via 2FA.
 
 Once the above is done, running the code will automatically create a SQL database in your local repository. All the analyses will be done on by pulling data from this database via SQL queries, which are imported to memory as a Pandas dataframe.
 
+## 3. Running Individual Strategies
+
 
 
 
